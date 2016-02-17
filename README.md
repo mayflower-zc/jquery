@@ -1,4 +1,4 @@
-[jQuery](https://jquery.com/) — New Wave JavaScript [![Build Status](https://travis-ci.org/mayflower-zc/jquery.svg?branch=master)
+[jQuery](https://jquery.com/) — New Wave JavaScript [![Build Status](https://travis-ci.org/mayflower-zc/jquery.svg?branch=master)](https://travis-ci.org/mayflower-zc)
 ==================================================
 
 Contribution Guides
